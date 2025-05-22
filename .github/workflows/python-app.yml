@@ -36,7 +36,7 @@ jobs:
         pytest test.py
     - name: Coverage
       run: |
-        pytest --cov test.py
+        coverage coverage run -m pytest
       
       
   
