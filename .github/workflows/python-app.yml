@@ -36,7 +36,7 @@ jobs:
         pytest test.py
     - name: Coverage
       run: |
-        pytest --cov=. --cov-report=html test.py
+        pytest --cov=. test.py
       
       
   
