@@ -7,8 +7,8 @@ def main():
     string = input("Introdueix un string:")
 
     print("Quina transformació vols?")
-    print("[1] Text amb tot majuscules")
-    print("[2] Text amb tot minúscuies")
+    print("[1] Text amb tot majuscules!")
+    print("[2] Text amb tot minúscuies!")
     print("[3] Text capitalitzat ")
 
     opcio = input("opció escollida: ")
