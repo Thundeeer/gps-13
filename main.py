@@ -9,7 +9,7 @@ def main():
     print("Quina transformació vols?")
     print("[1] Text amb tot majuscules")
     print("[2] Text amb tot minúscules")
-    print("[3] Text capitalitzat ")
+    print("[3] Text capitalitzat fdf")
 
     opcio = input("opció escollida: ")
 
